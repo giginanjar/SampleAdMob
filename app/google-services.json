@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "363213556912",
+    "firebase_url": "https://fir-gi.firebaseio.com",
+    "project_id": "fir-gi",
+    "storage_bucket": "fir-gi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363213556912:android:9846efda0a5ef52b",
+        "android_client_info": {
+          "package_name": "com.gegemobile.firebasegi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363213556912-h9hm6ta1f136qrbcc4oh5lh6nkilap45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gegemobile.firebasegi",
+            "certificate_hash": "63595E238BD6905B50F1D13D68ED49F9651AE5BC"
+          }
+        },
+        {
+          "client_id": "363213556912-96678t6g2l2nh3q4q9o0mjtlc4e5p3j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnv3PJ5Pfw2oBzVRbCwKHSC0a0vVmNJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363213556912-96678t6g2l2nh3q4q9o0mjtlc4e5p3j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363213556912:android:88853cbe991989d0",
+        "android_client_info": {
+          "package_name": "com.gegemobile.sampleadmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363213556912-8js61m32ed1tkj8b8g256d82id0o5n3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gegemobile.sampleadmob",
+            "certificate_hash": "BB3B9A4269A800FD5834BCC372F8011FB329AE7B"
+          }
+        },
+        {
+          "client_id": "363213556912-far8d1kde33spqqki1gq9tpu1atit77e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gegemobile.sampleadmob",
+            "certificate_hash": "63595E238BD6905B50F1D13D68ED49F9651AE5BC"
+          }
+        },
+        {
+          "client_id": "363213556912-96678t6g2l2nh3q4q9o0mjtlc4e5p3j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgnv3PJ5Pfw2oBzVRbCwKHSC0a0vVmNJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363213556912-96678t6g2l2nh3q4q9o0mjtlc4e5p3j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
